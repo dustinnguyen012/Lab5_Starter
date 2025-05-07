@@ -1,5 +1,4 @@
-// expose.js
-
+// Wait for the DOM to fully load
 window.addEventListener('DOMContentLoaded', init);
 
 function init() {
