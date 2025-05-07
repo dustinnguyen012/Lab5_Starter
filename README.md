@@ -8,3 +8,8 @@ No, I would not use a unit test to test the “message” feature itself because
 ## 2) Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not?
 Yes, I would use a unit test to verify the "max message length" feature because it is a self-contained logic check. You can easily test whether a string that exceeds 80 characters is correctly blocked, and whether a valid message is accepted. Unit testing this kind of input validation is fast and reliable since it doesn’t depend on other systems.
 
+expose.html:
+- [Expose Page](https://dustinnguyen012.github.io/Lab5_Starter/expose.html)
+
+explore.html:
+- [Explore Page](https://dustinnguyen012.github.io/Lab5_Starter/explore.html)
